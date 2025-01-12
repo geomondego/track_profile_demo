@@ -1,2 +1,2 @@
 # track_profile_demo
-Track Profile to Web - QGIS Demo
+Publicação de um perfil interativo com recurso ao plugin Track Profile to Web para QGIS
